@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/WriteStuff/1342159004_4105568788_1620186337.mp4'
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/WriteStuff/2708194817_706875275_1409547268.mp4'
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/WriteStuff/2708194817_1438405273_784262066.mp4'

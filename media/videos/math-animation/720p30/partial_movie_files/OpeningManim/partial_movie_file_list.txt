@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/OpeningManim/1342159004_3858354262_1819730289.mp4'
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/OpeningManim/2708194817_1438405273_1268778843.mp4'
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/OpeningManim/2708194817_3908240064_3913051285.mp4'
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/OpeningManim/2708194817_1438405273_926908388.mp4'
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/OpeningManim/2708194817_1340898772_656468091.mp4'
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/OpeningManim/2708194817_1438405273_2030409029.mp4'
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/OpeningManim/2708194817_3655946661_2967396922.mp4'
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/OpeningManim/2708194817_1438405273_3957689274.mp4'
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/OpeningManim/2708194817_3282310945_886778197.mp4'
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/OpeningManim/2708194817_1438405273_2554751296.mp4'

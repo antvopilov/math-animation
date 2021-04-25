@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/SquareToCircle/1342159004_747718654_3881855864.mp4'
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/SquareToCircle/2708194817_514481901_3881855864.mp4'
+file 'file:/Users/antonvopilov/PycharmProjects/math-animation/media/videos/math-animation/720p30/partial_movie_files/SquareToCircle/2708194817_3339440670_3881855864.mp4'

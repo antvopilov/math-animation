@@ -14,3 +14,7 @@ wasysym physics dvisvgm.x86_64-darwin dvisvgm rsfs wasy cm-super
 ```shell
 pip install manim
 ```
+
+```shell
+pip install jupyter-manim 
+```
